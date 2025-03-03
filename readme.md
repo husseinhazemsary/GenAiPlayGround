@@ -1,3 +1,2 @@
 # The Gen AI PLay ground
-we will be doing some expermintation 
-000
+we will be doing some expermintation on chapter 6 
